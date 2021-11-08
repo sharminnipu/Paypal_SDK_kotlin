@@ -23,7 +23,7 @@ import kotlin.math.log
 class MainActivity : AppCompatActivity() {
 
 
-    private val YOUR_CLIENT_ID="Acrrlef2uwvQoJ6wAiG30iLv9yXZplIABONc-IbYChg8bm9b5o_uJYvVFLhtxwzP_nK3qEWNObF9KqB9"
+    private val YOUR_CLIENT_ID=""
     private  var amount:String="100.00"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
